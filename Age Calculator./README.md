@@ -9,3 +9,10 @@ This is a simple Python program that calculates a user's age.
 
 ## How to run
 Run the program using:
+
+## Requirements
+- Python 3
+- Tkinter
+
+## File
+- main.py
